@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<de:comments xmlns:de="http://de.tukl.softech.agileReview">
+  <de:author name="amagupta"/>
+  <de:files>
+    <de:project name="agile-review-sample">
+      <de:folder name="src">
+        <de:folder name="main">
+          <de:folder name="java">
+            <de:folder name="com">
+              <de:folder name="misys">
+                <de:folder name="sample">
+                  <de:folder name="agilereview">
+                    <de:folder name="services">
+                      <de:file name="ReviewService.java">
+                        <de:comment id="c0" author="amagupta" reviewID="Sample-Service-review" creation-date="2016-06-23T17:37:24.374+05:30" last-modified="2016-06-23T17:38:09.501+05:30" priority="1" recipient="Shankar" status="0" revision="0">
+                          <de:text>Try to implement Generic Type Casting in the service. We have to ensure that the service caters to multiple types present in the BF enviroment</de:text>
+                          <de:replies/>
+                        </de:comment>
+                      </de:file>
+                    </de:folder>
+                  </de:folder>
+                </de:folder>
+              </de:folder>
+            </de:folder>
+          </de:folder>
+        </de:folder>
+      </de:folder>
+    </de:project>
+  </de:files>
+</de:comments>
