@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <de:comments xmlns:de="http://de.tukl.softech.agileReview">
-  <de:author name="amagupta"/>
+  <de:author name="santosh.chandrashekh"/>
   <de:files>
     <de:project name="agile-review-sample">
       <de:folder name="src">
@@ -12,14 +12,8 @@
                   <de:folder name="agilereview">
                     <de:folder name="bootstrap">
                       <de:file name="ReviewBoot.java">
-                        <de:comment id="c0" author="amagupta" reviewID="NewSampleReview" creation-date="2016-06-28T16:21:00.241+05:30" last-modified="2016-06-30T17:48:26.275+05:30" priority="0" recipient="Shankar" status="0" revision="0">
-                          <de:text>New Comment</de:text>
-                          <de:replies>
-                            <de:reply author="santosh.chandrashekh" creation-date="2016-06-30T17:48:26.275+05:30">Hello. Pls review.</de:reply>
-                          </de:replies>
-                        </de:comment>
-                        <de:comment id="c1" author="amagupta" reviewID="NewSampleReview" creation-date="2016-06-28T16:22:55.204+05:30" last-modified="2016-06-28T16:23:22.260+05:30" priority="0" recipient="Shankar" status="1" revision="0">
-                          <de:text>new</de:text>
+                        <de:comment id="c0" author="santosh.chandrashekh" reviewID="NewSampleReview" creation-date="2016-06-30T17:48:41.787+05:30" last-modified="2016-06-30T17:49:06.111+05:30" priority="1" recipient="Amal Gupta" status="0" revision="0">
+                          <de:text>Good work</de:text>
                           <de:replies/>
                         </de:comment>
                       </de:file>
