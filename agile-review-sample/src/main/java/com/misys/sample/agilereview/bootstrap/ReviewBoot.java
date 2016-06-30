@@ -12,9 +12,9 @@ public class ReviewBoot {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {/*-?|Sample|amagupta|c0|*/
+	public static void main(String[] args) {
 
 		System.out.println("AgileReviewboot");
-	}/*-|Sample|amagupta|c0|?*/
+	}
 
 }

@@ -12,12 +12,13 @@
                   <de:folder name="agilereview">
                     <de:folder name="bootstrap">
                       <de:file name="ReviewBoot.java">
-                        <de:comment id="c0" author="amagupta" reviewID="Sample" creation-date="2016-06-24T14:53:29.566+05:30" last-modified="2016-06-24T14:54:22.868+05:30" priority="1" recipient="Shankar" status="0" revision="0">
-                          <de:text>This is a sample Comment for Shankar.
-The use of sysouts is not premitted</de:text>
-                          <de:replies>
-                            <de:reply author="amagupta" creation-date="2016-06-24T14:54:22.868+05:30">This is a sample Reply</de:reply>
-                          </de:replies>
+                        <de:comment id="c0" author="amagupta" reviewID="NewSampleReview" creation-date="2016-06-28T16:21:00.241+05:30" last-modified="2016-06-28T16:21:05.890+05:30" priority="0" recipient="Shankar" status="0" revision="0">
+                          <de:text>New Comment</de:text>
+                          <de:replies/>
+                        </de:comment>
+                        <de:comment id="c1" author="amagupta" reviewID="NewSampleReview" creation-date="2016-06-28T16:22:55.204+05:30" last-modified="2016-06-28T16:23:22.260+05:30" priority="0" recipient="Shankar" status="1" revision="0">
+                          <de:text>new</de:text>
+                          <de:replies/>
                         </de:comment>
                       </de:file>
                     </de:folder>

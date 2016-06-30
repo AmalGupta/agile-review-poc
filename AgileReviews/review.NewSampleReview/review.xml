@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<de:review id="NewSampleReview" status="0" reference-id="BootFile" xmlns:de="http://de.tukl.softech.agileReview">
+  <de:personInCharge name="Shankar"/>
+  <de:description>Sample Review</de:description>
+</de:review>
