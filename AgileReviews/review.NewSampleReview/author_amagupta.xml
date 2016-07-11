@@ -12,7 +12,7 @@
                   <de:folder name="agilereview">
                     <de:folder name="bootstrap">
                       <de:file name="ReviewBoot.java">
-                        <de:comment id="c0" author="amagupta" reviewID="NewSampleReview" creation-date="2016-06-28T16:21:00.241+05:30" last-modified="2016-06-30T17:48:26.275+05:30" priority="0" recipient="Shankar" status="0" revision="0">
+                        <de:comment id="c0" author="amagupta" reviewID="NewSampleReview" creation-date="2016-06-28T16:21:00.241+05:30" last-modified="2016-06-30T17:54:36.265+05:30" priority="0" recipient="Shankar" status="1" revision="0">
                           <de:text>New Comment</de:text>
                           <de:replies>
                             <de:reply author="santosh.chandrashekh" creation-date="2016-06-30T17:48:26.275+05:30">Hello. Pls review.</de:reply>
@@ -20,6 +20,14 @@
                         </de:comment>
                         <de:comment id="c1" author="amagupta" reviewID="NewSampleReview" creation-date="2016-06-28T16:22:55.204+05:30" last-modified="2016-06-28T16:23:22.260+05:30" priority="0" recipient="Shankar" status="1" revision="0">
                           <de:text>new</de:text>
+                          <de:replies/>
+                        </de:comment>
+                      </de:file>
+                    </de:folder>
+                    <de:folder name="services">
+                      <de:file name="ReviewService.java">
+                        <de:comment id="c2" author="amagupta" reviewID="NewSampleReview" creation-date="2016-07-11T16:25:07.866+05:30" last-modified="2016-07-11T16:25:52.895+05:30" priority="1" recipient="Shankar" status="0" revision="0">
+                          <de:text>Please review</de:text>
                           <de:replies/>
                         </de:comment>
                       </de:file>

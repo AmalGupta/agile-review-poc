@@ -12,9 +12,11 @@
                   <de:folder name="agilereview">
                     <de:folder name="bootstrap">
                       <de:file name="ReviewBoot.java">
-                        <de:comment id="c0" author="santosh.chandrashekh" reviewID="NewSampleReview" creation-date="2016-06-30T17:48:41.787+05:30" last-modified="2016-06-30T17:49:06.111+05:30" priority="1" recipient="Amal Gupta" status="0" revision="0">
+                        <de:comment id="c0" author="santosh.chandrashekh" reviewID="NewSampleReview" creation-date="2016-06-30T17:48:41.787+05:30" last-modified="2016-06-30T17:54:30.914+05:30" priority="1" recipient="Amal Gupta" status="1" revision="0">
                           <de:text>Good work</de:text>
-                          <de:replies/>
+                          <de:replies>
+                            <de:reply author="amagupta" creation-date="2016-06-30T17:54:30.914+05:30">Thanks</de:reply>
+                          </de:replies>
                         </de:comment>
                       </de:file>
                     </de:folder>
